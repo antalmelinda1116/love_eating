@@ -19,10 +19,7 @@ This is a real community of unrecognized chefs (yet).
         * [Fonts](#fonts)
         * [Colors](#colors)
         * [Structure](#structure)
-* [Wireframes and Flowcharts](#wireframes-and-flowcharts)
-    * [Wireframes](#wireframes)
-    * [Flowcharts](#flowcharts)
-    * [Database Structure](#database-structure)
+* [Wireframes](#wireframes)
 * [Features](#features)
     * [Existing Features](#existing-features)
     * [Features to be implemented](#features-to-be-implemented)
@@ -32,8 +29,6 @@ This is a real community of unrecognized chefs (yet).
     * [Tools](#tools)
 * [Testing](#testing)
 * [Deployment](#deployment)
-    * [Local Deployment](#local-deployment)
-    * [Heroku Deployment](#heroku-deployment)
 * [Credits](#credits)
 
 --- 
@@ -113,3 +108,76 @@ This is a real community of unrecognized chefs (yet).
 [Back to Top](#table-of-contents)
 
 --- 
+
+<a></a>
+
+## **Wireframes**
+
+#### Desktop Wireframes
+
+
+#### Tablet Wireframes
+
+
+#### Mobile Wireframes
+
+[Back to Top](#table-of-contents)
+
+---
+
+<a></a>
+
+## **Features**
+
+<a></a>
+
+### **Existing Features**
+
+<a></a>
+
+### **Features to be implemented**
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## **Technologies used**
+
+<a></a>
+
+### **Languages**
+
+<a></a>
+
+### **Libraries and Frameworks**
+
+### **Tools**
+* [Git](https://git-scm.com/)
+* [GitPod](https://www.gitpod.io/)
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+
+## **Testing**
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## **Deployment**   
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+## **Credits**
+
+[Back to Top](#table-of-contents)
+
+
+
+
+
+
